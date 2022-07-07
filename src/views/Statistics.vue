@@ -1,6 +1,7 @@
 <template>
     <div>
         Statistics.vue/我是new 分支/我是另外一个同事写的代码
+        我就解决你制造的冲突
         <Nav/>
     </div>
 </template>
