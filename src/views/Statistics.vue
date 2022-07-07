@@ -1,6 +1,6 @@
 <template>
     <div>
-        Statistics.vue
+        Statistics.vue/我是new 分支
         <Nav/>
     </div>
 </template>
